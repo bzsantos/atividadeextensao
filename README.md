@@ -14,6 +14,8 @@ Local inicial do projeto como modelo.
 <br>
 ## Praça do Camilópolis em Santo André - Local inicial para aplicação do projeto.
 ## Localização no Google Maps - Bairro Camilópolis em Santo André-SP.
+- Link do local
+https://maps.app.goo.gl/uyHCkYbQoBZHorWj7
 
 <img src="praca.jpg" alt="quadro" widht="450px" height="500px">
 
