@@ -31,4 +31,4 @@ https://maps.app.goo.gl/uyHCkYbQoBZHorWj7
 <img src="pontowifi.jpg" alt="quadro" widht="450px" height="500px">
 <br>
 ## QR Code para o site do projeto e cursos
-<img src="qrcode.jpg" alt="quadro" widht="450px" height="500px">
+<img src="qrcode.png" alt="quadro" widht="450px" height="500px">
