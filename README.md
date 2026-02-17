@@ -7,9 +7,9 @@ Inclusão socia e digital, orientado a cursos para formação profissional
 
 Local inicial do projeto como modelo.
 <br>
-## Quadro de tarefas preenchido
+## Site do Projeto
 <br>
-<img src="resultado.jpg" alt="quadro" widht="150px" height="100px">
+<img src="site.jpg" alt="quadro" widht="550px" height="500px">
 
 <br>
 ## Praça do Camilópolis em Santo André - Local inicial para aplicação do projeto.
