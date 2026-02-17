@@ -22,5 +22,13 @@ https://maps.app.goo.gl/uyHCkYbQoBZHorWj7
 <img src="praca.jpg" alt="quadro" widht="450px" height="500px">
 
 <br>
+
+# Pontos no bairro ou próximo do ponto de Wi-fi grátis para acesso aos cursos
+- Vermelho: Comunidades
+- Azul: Escolas
+
+<br> 
+<img src="pontowifi.jpg" alt="quadro" widht="450px" height="500px">
+<br>
 ## QR Code para o site do projeto e cursos
 <img src="qrcode.jpg" alt="quadro" widht="450px" height="500px">
