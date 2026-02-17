@@ -1,0 +1,200 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>Cursos Gratuitos nas Praças | Santo André</title>
+  <style>
+    * {
+      margin: 0;
+      padding: 0;
+      box-sizing: border-box;
+      font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    }
+    body {
+      background: linear-gradient(135deg, #f0f4ff 0%, #e6f0ff 100%);
+      color: #333;
+    }
+    header {
+      background: #004aad;
+      color: white;
+      text-align: center;
+      padding: 80px 20px 60px;
+      position: relative;
+      overflow: hidden;
+    }
+    header::before {
+      content: "";
+      position: absolute;
+      top: 0; left: 0; right: 0; bottom: 0;
+      background: url('https://images.unsplash.com/photo-1507525428034-b723cf961d3e?ixlib=rb-4.0.3&auto=format&fit=crop&w=2073&q=80') center/cover no-repeat; /* substitua por foto real de praça */
+      opacity: 0.15;
+    }
+    .container {
+      max-width: 1200px;
+      margin: 0 auto;
+      padding: 0 20px;
+    }
+    h1 {
+      font-size: 3.2rem;
+      margin-bottom: 16px;
+      text-shadow: 0 2px 8px rgba(0,0,0,0.3);
+    }
+    .subtitle {
+      font-size: 1.4rem;
+      max-width: 700px;
+      margin: 0 auto 30px;
+      opacity: 0.95;
+    }
+    .btn {
+      display: inline-block;
+      background: #ff6b00;
+      color: white;
+      padding: 16px 36px;
+      border-radius: 50px;
+      font-size: 1.2rem;
+      text-decoration: none;
+      font-weight: bold;
+      transition: all 0.3s;
+      box-shadow: 0 6px 20px rgba(255,107,0,0.3);
+    }
+    .btn:hover {
+      background: #e55f00;
+      transform: translateY(-3px);
+      box-shadow: 0 10px 30px rgba(255,107,0,0.4);
+    }
+    section {
+      padding: 80px 0;
+    }
+    .cursos-grid {
+      display: grid;
+      grid-template-columns: repeat(auto-fit, minmax(320px, 1fr));
+      gap: 30px;
+      margin-top: 50px;
+    }
+    .card {
+      background: white;
+      border-radius: 16px;
+      overflow: hidden;
+      box-shadow: 0 10px 30px rgba(0,0,0,0.08);
+      transition: transform 0.3s;
+    }
+    .card:hover {
+      transform: translateY(-10px);
+    }
+    .card img {
+      width: 100%;
+      height: 200px;
+      object-fit: cover;
+    }
+    .card-content {
+      padding: 24px;
+      text-align: center;
+    }
+    .card h3 {
+      color: #004aad;
+      margin-bottom: 12px;
+      font-size: 1.5rem;
+    }
+    .wifi-icon {
+      font-size: 3rem;
+      color: #00c853;
+      margin-bottom: 20px;
+    }
+    .local {
+      background: #004aad;
+      color: white;
+      text-align: center;
+      padding: 60px 20px;
+    }
+    footer {
+      background: #222;
+      color: #ccc;
+      text-align: center;
+      padding: 40px 20px;
+      font-size: 0.95rem;
+    }
+    @media (max-width: 768px) {
+      h1 { font-size: 2.4rem; }
+      .subtitle { font-size: 1.2rem; }
+    }
+  </style>
+</head>
+<body>
+
+  <header>
+    <div class="container">
+      <h1>Cursos Gratuitos nas Praças</h1>
+      <p class="subtitle">Aprenda de graça, ao ar livre, usando o Wi-Fi Livre da cidade!<br>Qualificação profissional e inclusão digital direto na sua comunidade.</p>
+      <a href="#cursos" class="btn">Veja os Cursos Disponíveis</a>
+    </div>
+  </header>
+
+  <section id="cursos">
+    <div class="container">
+      <h2 style="text-align:center; font-size:2.5rem; margin-bottom:40px; color:#004aad;">
+        Cursos Oferecidos
+      </h2>
+      <div class="cursos-grid">
+        <div class="card">
+          <div style="background:#e3f2fd; height:200px; display:flex; align-items:center; justify-content:center;">
+            <div class="wifi-icon">📱💻</div>
+          </div>
+          <div class="card-content">
+            <h3>Informática Básica</h3>
+            <p>Uso do celular, internet segura, apps do governo, prevenção de golpes.</p>
+          </div>
+        </div>
+
+        <div class="card">
+          <div style="background:#fff3e0; height:200px; display:flex; align-items:center; justify-content:center;">
+            <div class="wifi-icon">💼</div>
+          </div>
+          <div class="card-content">
+            <h3>Empreendedorismo Digital</h3>
+            <p>Vendas no Mercado Livre, Instagram, WhatsApp Business e mais.</p>
+          </div>
+        </div>
+
+        <div class="card">
+          <div style="background:#e8f5e9; height:200px; display:flex; align-items:center; justify-content:center;">
+            <div class="wifi-icon">🌐</div>
+          </div>
+          <div class="card-content">
+            <h3>Inglês Conversacional</h3>
+            <p>Prática em grupo + apps como Duolingo para iniciantes.</p>
+          </div>
+        </div>
+
+        <div class="card">
+          <div style="background:#f3e5f5; height:200px; display:flex; align-items:center; justify-content:center;">
+            <div class="wifi-icon">💰</div>
+          </div>
+          <div class="card-content">
+            <h3>Finanças Pessoais</h3>
+            <p>Orçamento familiar, controle de gastos e economia no dia a dia.</p>
+          </div>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <section class="local">
+    <div class="container">
+      <h2>Começando em Camilópolis!</h2>
+      <p style="font-size:1.3rem; max-width:800px; margin:30px auto;">
+        Praça São Camilo – Vila Camilópolis, Santo André<br>
+        Wi-Fi Livre + Aulas presenciais com facilitadores<br>
+        Horários: Sábados e domingos (confira a agenda!)
+      </p>
+      <a href="https://www.santoandre.sp.gov.br" target="_blank" class="btn" style="background:#00c853;">Mais Informações na Prefeitura</a>
+    </div>
+  </section>
+
+  <footer>
+    <p>Projeto Cursos nas Praças • Prefeitura de Santo André • Wi-Fi Livre SA<br>
+    Inclusão digital para todos • 2026</p>
+  </footer>
+
+</body>
+</html>
