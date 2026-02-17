@@ -8,6 +8,8 @@ Inclusão socia e digital, orientado a cursos para formação profissional
 Local inicial do projeto como modelo.
 <br>
 ## Site do Projeto
+
+# Link do site (Protótipo) - https://bzsantos.github.io/atividadeextensao/
 <br>
 <img src="site.jpg" alt="quadro" widht="550px" height="500px">
 
