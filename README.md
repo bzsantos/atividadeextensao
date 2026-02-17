@@ -4,12 +4,14 @@ Aluno: Bruno Zolotareff dos Santos
 
 ## Projeto 
 Inclusão socia e digital, orientado a cursos para formação profissional
-
-##Quadro de tarefas preenchido
+<br>
+## Quadro de tarefas preenchido
+<br>
 <img src="resultado.jpg" alt="quadro" widht="450px" height="500px">
 
 <br>
-##Praça do Camilópolis em Santo André = Local inicial para aplicação do projeto.
+##Praça do Camilópolis em Santo André = Local inicial para aplicação do projeto.##
+#Localização no Google Maps
 
 <img src="praca.jpg" alt="quadro" widht="450px" height="500px">
 
