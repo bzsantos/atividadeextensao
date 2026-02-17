@@ -9,7 +9,7 @@ Local inicial do projeto como modelo.
 <br>
 ## Quadro de tarefas preenchido
 <br>
-<img src="resultado.jpg" alt="quadro" widht="450px" height="500px">
+<img src="resultado.jpg" alt="quadro" widht="150px" height="100px">
 
 <br>
 ## Praça do Camilópolis em Santo André - Local inicial para aplicação do projeto.
