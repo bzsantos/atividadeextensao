@@ -1,4 +1,4 @@
-#UFBRA - Curso em Processos Gerenciais - ATIVIDADE EXTENSIONISTA (2025.NOV)
+# UFBRA - Curso em Processos Gerenciais - ATIVIDADE EXTENSIONISTA (2025.NOV)
 
 Aluno: Bruno Zolotareff dos Santos
 
@@ -12,11 +12,11 @@ Local inicial do projeto como modelo.
 <img src="resultado.jpg" alt="quadro" widht="450px" height="500px">
 
 <br>
-## Praça do Camilópolis em Santo André = Local inicial para aplicação do projeto.
-## Localização no Google Maps - Bairro Camilópolis em Santo André-SP
+## Praça do Camilópolis em Santo André - Local inicial para aplicação do projeto.
+## Localização no Google Maps - Bairro Camilópolis em Santo André-SP.
 
 <img src="praca.jpg" alt="quadro" widht="450px" height="500px">
 
 <br>
-##QR Code para o site do projeto e cursos
+## QR Code para o site do projeto e cursos
 <img src="qrcode.jpg" alt="quadro" widht="450px" height="500px">
