@@ -3,7 +3,7 @@
 Aluno: Bruno Zolotareff dos Santos
 
 ## Projeto 
-Inclusão socia e digital, orientado a cursos para formação profissional
+Inclusão social e digital, orientado a cursos para formação profissional
 
 Local inicial do projeto como modelo.
 <br>
